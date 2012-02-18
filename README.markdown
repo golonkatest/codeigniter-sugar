@@ -1,4 +1,4 @@
-# jQuery.sugar for Espresso
+# Codeigniter.sugar for Espresso
 
 Codeigniter.sugar brings autocompletion for [Codeigniter](http://codeigniter.com) to MacRabbit's [Espresso](http://macrabbit.com/espresso/) text editor for Mac.
 
