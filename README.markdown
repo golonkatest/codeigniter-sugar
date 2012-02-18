@@ -1,6 +1,6 @@
 # jQuery.sugar for Espresso
 
-jQuery.sugar adds autocompletion for [jQuery](http://jquery.com) methods to MacRabbit's [Espresso](http://macrabbit.com/espresso/) text editor for Mac.
+Codeigniter.sugar brings autocompletion for [Codeigniter](http://codeigniter.com) to MacRabbit's [Espresso](http://macrabbit.com/espresso/) text editor for Mac.
 
 ## Installation
 
